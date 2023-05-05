@@ -1,7 +1,7 @@
 # 一、比赛地址和背景
 ## 1.1 比赛地址
-[比赛地址](https://www.heywhale.com/home/competition/63eee2950644cee838881588)
-[另一个开源地址，部分可在线运行](https://www.heywhale.com/mw/project/64549ec32c44d5a9c65e69fc)
+[1.比赛地址](https://www.heywhale.com/home/competition/63eee2950644cee838881588)-----
+[2.另一个开源地址，部分可在线运行](https://www.heywhale.com/mw/project/64549ec32c44d5a9c65e69fc)
 ## 1.2 数据说明及任务
 本次算法赛将提供超过 23.5W 的食物、疾病对应关系及其量化得分，其中食物特征超过 200 个，疾病特征由 3 种不同的方式抽取，累积超过 4000 个特征信息。初赛为 0、1 二分类预测，提供食物、疾病特征，与食物疾病的关系标签。
 疾病特征
